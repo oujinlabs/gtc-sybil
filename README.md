@@ -4,7 +4,7 @@ Analysis made in the context of Gitcoin bounty [Sybil Slayer](https://gitcoin.co
 
 ## How to use ?
 
-The report has been made available in html format as `report.html`. If you want to reproduce the results, you can do the following:
+The report has been made available in html format as `[report.html](https://github.com/oujinlabs/gtc-sybil/blob/master/report.html)`. If you want to reproduce the results, you can do the following:
 
 ### Install dependencies
 ```{python}
